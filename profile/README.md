@@ -1,5 +1,3 @@
-# .github-private
-
 ## Rescape Technologies Private Limited
 
 Rescape Technologies Private Limited is a dynamic technology services company headquartered in the vibrant coastal state of Goa, India. As a forward-thinking technology partner, we deliver cutting-edge solutions to businesses across the globe, helping them navigate the complex digital landscape and achieve their strategic objectives.
